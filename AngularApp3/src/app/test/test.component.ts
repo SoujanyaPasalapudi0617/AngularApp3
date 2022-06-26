@@ -17,6 +17,7 @@ export class TestComponent implements OnInit {
   {
 debugger;
 alert(this.txtData.toUpperCase()+". I have added one more line.".toUpperCase());
+console.log("This is my 2nd commit");
   }
 
 }
